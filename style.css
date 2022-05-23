@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: linear-gradient(magenta 0%, blue 100%);
+    color: black;
+}
+button{
+    background-color: white;
+    color: black;
+    border:1px #dda0dd;
+    font-size: 50;
+    font-weight: bold;
+    height: 125px;
+    width: 250px;
+}
+h1{
+    font-size: 100px;
+}
+h2{
+    font-size: 50px
+}
